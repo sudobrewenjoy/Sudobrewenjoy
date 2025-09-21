@@ -74,30 +74,8 @@
   </div>
   <br>
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=monkey531&show_icons=true&theme=tokyonight&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=monkey531&show_icons=true&theme=tokyonight&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=monkey531&show_icons=true&theme=tokyonight&count_private=true" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=monkey531&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    media="(prefers-color-scheme: dark)"
-    width="36%"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=monkey531&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    width="36%"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkey531&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="40%" />
-</picture>
-
+  
+ 
 <br/>
 
 </div> 
