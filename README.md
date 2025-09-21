@@ -4,7 +4,6 @@
 
 <div align="center"> 
 <p style="font-size: medium"><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/monkey531/count.svg" alt="profile vistor count"/><br><br>
 <a href="https://github.com/monkey531" target="_blank">
   <img src="https://img.shields.io/github/followers/monkey531?label=Follow&style=social" alt="Follow me on GitHub" />
 </a>
