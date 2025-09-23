@@ -1,9 +1,5 @@
-<img src="https://github.com/sudobrewenjoy/assets/blob/main/274604631-59163c56-55ac-4813-b4aa-b57082e708e6.gif" align="middle" alt="Banner" width="100%"/>
-
-<img src="https://github.com/sudobrewenjoy/assets/blob/main/274605183-fd716229-fbd9-46d3-8ccd-3697ffe7e41a.gif" width="100%" alt="marginline"/>
 
 <div align="center"> 
-<p style="font-size: medium"><b>Profile Views</b></p>
 <a href="https://github.com/sudobrewenjoy" target="_blank">
   <img src="https://img.shields.io/github/followers/sudobrewenjoy?label=Follow&style=social" alt="Follow me on GitHub" />
 </a>
