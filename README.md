@@ -1,7 +1,7 @@
 
 <div align="center"> 
 <a href="https://github.com/sudobrewenjoy" target="_blank">
-  <img src="https://img.shields.io/github/followers/sudobrewenjoy?label=Follow&style=social" alt="Follow me on GitHub" />
+
 </a>
 <br>
 <br>
