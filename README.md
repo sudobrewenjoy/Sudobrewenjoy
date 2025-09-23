@@ -3,12 +3,6 @@
 <a href="https://github.com/sudobrewenjoy" target="_blank">
 
 </a>
-<br>
-<br>
-<a href="https://wakatime.com/">
-  <img src="https://wakatime.com/badge/user/018b0e4a-91f9-4e8b-83fb-66d053611dc3.svg" alt="Wakatime Total Time Badge" />
-</a>
-<br>
 </div>
 <br>
 <div align="center">
